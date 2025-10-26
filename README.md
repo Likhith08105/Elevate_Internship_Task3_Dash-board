@@ -31,5 +31,5 @@ It highlights sales trends, profit distribution, and regional performance to sup
 
 ## 👨‍💻 Author
 **Likhith Kumar**  
-📧 likhith@example.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+📧 likhithpaidimarri0815@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/likhith-kumar-paidimarri-312603258/)
